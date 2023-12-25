@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/todocodeacademy/config-server-test.git
+          uri: https://github.com/aranorj/repo-config-server.git
           searchPaths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
